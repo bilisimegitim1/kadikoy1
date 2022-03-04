@@ -1,5 +1,5 @@
 <?php
 
-echo "Merhaba Dünya";
+echo "say hi";
 
 ?>
